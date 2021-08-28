@@ -1,32 +1,37 @@
-<h1>Prgm CRONO (Cronómetro)</h1>
+# Prgm CRONO (Cronómetro)
 
-<h3>Biografia</h3>
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/CRONO.8xp/total?label=Downloads&style=plastic)
 
-<p>Desenvolvido em C (*.c) . Programa de cronómetro para <em>TI-84 Plus CE/CE-T/CE-T Python Edition</em> e<em> TI-83 Premium CE</em>.</p>
+### Biografia
 
-<h3>Como instalar</h3>
+Desenvolvido em C (*.c). Programa de cronómetro
 
-<p>Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
-<ol>
-     <li>Plug-in a tua calculadora e abre o TI Connect CE</li>
-     <li>Envia o <em>CRONO.8xp</em></li>
-     <li>Escolhe a tua calculadora</li>
-     <li>E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd></li>
-</ol>
+### Compatibilidade
+- TI-84 Plus CE
+- TI-84 Plus CE-T
+- TI-84 Plus CE-T Python Edition
+- TI-83 Premium CE
 
-<p> E agora já tens o <em>CRONO</em> na tua calculadora</p>
+### Como instalar
 
-<h3>Como executar</h3>
+Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. [Download do TI Connect™ CE](https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw). Depois de instalado:
 
-<p> Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa <em>CRONO</em></p>
+1. Conecta a tua calculadora e abre o TI Connect CE
+2. Envia o _CRONO.8xp_
+3. Escolhe a tua calculadora
+4. E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
 
-<ol>
-     <li><kbd>prgm</kbd></li>
-     <li><kbd>alpha</kbd> + <kbd>prgm</kbd></li>
-     <li>E selecionar o <em>CRONO</em></li>
-     <li>E por ultimo pressionar <kbd>enter</kbd></li>
-</ol>
+E agora já tens o _CRONO_ na tua calculadora
 
-<h2>Programador: <strong><em>J.C.P.</em></strong></h2>
+### Como executar
 
-<h4><a href="https://cpsoftwarecompany.epizy.com">Website da CP Software Company</a></h4>
+Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa _CRONO_
+
+1. <kbd>prgm</kbd>
+2. <kbd>alpha</kbd> + <kbd>prgm</kbd>
+3. Selecionar o _CRONO_
+4. E por último pressionar <kbd>enter</kbd>
+
+## Programador: _J.C.P._
+
+#### [Website da CP Software Company](http://cpsoftwarecompany.epizy.com)
